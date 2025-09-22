@@ -60,18 +60,15 @@
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aparna-Mageshwaran&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aparna-Mageshwaran&theme=radical&hide_border=true" />
-</p>
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aparna-Mageshwaran&theme=rogue&area=true&hide_border=true" /> </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/anlin-abishek/)
-- 📧 [Email](mailto:anlin18abishek@gmail.com)
-- 🧠 [LeetCode](https://leetcode.com/u/Anlin_Abishek/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aparna-m-919149304/)
+- 📧 [Email](mailto:mgaparlok@gmail.com)
+- 🧠 [LeetCode](https://leetcode.com/u/Aparna_M_26/)
 
 ---
 
