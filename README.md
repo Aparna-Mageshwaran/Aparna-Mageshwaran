@@ -42,7 +42,6 @@
   
 </p>
 
-- 🔍 **UI/UX** **Java**    
 - ⚛ React + Hooks + Context API  + Components
 - 🌍 API Integration  
 - 🧠 Dynamic Programming on LeetCode  
