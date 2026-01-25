@@ -29,6 +29,21 @@
 
 ## 🚀 Currently Learning
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Currently+Learning..." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-F4B400?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynamic%20Programming-007396?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=sql&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Cybersecurity-FFA500?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
+</p>
+
 - 🔍 **UI/UX** **Java**    
 - ⚛ React + Hooks + Context API  + Components
 - 🌍 API Integration  
