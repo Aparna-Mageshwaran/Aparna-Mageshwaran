@@ -39,12 +39,12 @@
   <img src="https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=sql&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/React-Context%20API%20%7C%20Hooks-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" />
+  <img src="https://img.shields.io/badge/API%20Integration-REST%20%26%20Fetch-4CAF50?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynamic%20Programming-LeetCode-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" />
+
 </p>
 
-- ⚛ React + Hooks + Context API  + Components
-- 🌍 API Integration  
-- 🧠 Dynamic Programming on LeetCode  
 ---
 
 ## 📌 Featured Projects
