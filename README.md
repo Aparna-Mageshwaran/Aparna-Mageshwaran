@@ -8,7 +8,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 Currently diving deep into **UI/UX Designing** **Data Structures & Algorithm**  **Python** and **Java**
+- 🌱 Currently diving deep into **UI/UX Designing**, **Data Structures & Algorithms**, **Python** and **Java**.
 - 💡 Problem solving thinking
 - 💬 Ask me about: Frontend Designing or anything tech!  
 - 🎨 Skilled in creating modern and aesthetic designs using **Canva** and **Figma**
